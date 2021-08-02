@@ -17,7 +17,6 @@
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#About the project">About The Project</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -31,10 +30,7 @@ Here's why:
 * Doesn't Enhance the images a lot in the face cropping function, but in the overall image enhancing model it runs in a loop of 2 or 3 to enhance them beautifully
 * This thing takes a lot of RAM to process, please look after this issue :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+This model is built with the following
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -42,4 +38,18 @@ This section should list any major frameworks that you built your project using.
 * [Python](https://www.python.org/)
 * [Keras](https://keras.io/)
 * [Open cv](https://opencv.org/)
-* 
+
+
+This is an example of how to list things you need to use the software and how to install them.
+* Tenorflow hub 
+  ```sh
+  pip install "tensorflow>=2.0.0"
+  ```
+* Open cv
+  ```sh
+  pip install opencv-python
+  ```
+  
+
+  
+ 
