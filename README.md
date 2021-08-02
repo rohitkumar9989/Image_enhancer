@@ -40,7 +40,7 @@ This section should list any major frameworks that you built your project using.
 * [Open cv](https://opencv.org/)
 
 
-This is an example of how to list things you need to use the software and how to install them.
+Important libraries to be installed on the machine
 * Tenorflow hub 
   ```sh
   pip install "tensorflow>=2.0.0"
