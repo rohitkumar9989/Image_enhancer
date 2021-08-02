@@ -15,7 +15,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#license">License</a></li>
+    <li><a href="https://github.com/rohitkumar9989/Image_enhancer/blob/main/LICENSE">License</a></li>
     <li><a href="#About the project">About The Project</a></li>
   </ol>
 </details>
