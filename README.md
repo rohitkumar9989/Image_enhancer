@@ -16,21 +16,20 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#About the project">About The Project</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/330px-TensorFlowLogo.svg.png)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This is a very small prject which helps in enhancing the images by taking a Input images. This project has many features like detcting the faces and enhaning the faces itself
+and also a feature which enhances the whole image, 🖼🖼
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Helps you in enhancing an image which has been cropped to an extent and doesn't look clear at all
+* Doesn't Enhance the images a lot in the face cropping function, but in the overall image enhancing model it runs in a loop of 2 or 3 to enhance them beautifully
+* This thing takes a lot of RAM to process, please look after this issue :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
@@ -39,6 +38,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.co)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Tenorflow](https://www.tensorflow.org/)
+* [Python](https://www.python.org/)
+* [Keras](https://keras.io/)
+* [Open cv](https://opencv.org/)
+* 
