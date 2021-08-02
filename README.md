@@ -32,8 +32,7 @@ Here's why:
 
 This model is built with the following
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The websites which helped me in this project are:
 * [Tenorflow](https://www.tensorflow.org/)
 * [Python](https://www.python.org/)
 * [Keras](https://keras.io/)
