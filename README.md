@@ -23,7 +23,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.google.com/search?q=tensorflow+images&sxsrf=ALeKk02oNEa82l3BoL35qQrjD2Alag2GJA:1627870078190&tbm=isch&source=iu&ictx=1&fir=XUX8fWzfO1f3sM%252C3dxNabEQ8e_RSM%252C_&vet=1&usg=AI4_-kRdMYALDR03fTkH_5pbVWghP0wJHQ&sa=X&ved=2ahUKEwifyYDOoJHyAhX-73MBHQTqBvQQ9QF6BAgKEAE#imgrc=XUX8fWzfO1f3sM)
+[![Product Name Screen Shot][product-screenshot]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/330px-TensorFlowLogo.svg.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
